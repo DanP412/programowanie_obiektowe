@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace prog_obj_01
+namespace prog_obj_02
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            
         }
 
     }
@@ -41,12 +41,12 @@ namespace prog_obj_01
 
         public static Ulamek operator +(Ulamek licz, Ulamek mian)
         {
-            return new Ulamek(licz.)
-        }
+            return new Ulamek (licz.)
+        } 
 
 
     }
 
-
+    
 
 }
