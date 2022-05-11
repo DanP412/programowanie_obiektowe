@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\lab_01\\lab_01\\lab_01.csproj": {}
+    "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\lab_01\\lab_01\\lab_01.csproj": {
+    "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\lab_01\\lab_01\\lab_01.csproj",
-        "projectName": "lab_01",
-        "projectPath": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\lab_01\\lab_01\\lab_01.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\lab_01\\lab_01\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Source\\Repos\\DanP412\\programowanie_obiektowe\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
